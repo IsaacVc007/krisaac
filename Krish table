@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<style>
+    table, th, td {
+      border:1px solid black;
+    }
+    </style>
+<html>
+     <head>
+         <title>HTML Table</title>
+     </head>
+     <body>
+
+         <h1>HTML Table</h1>
+        
+         <table>
+        
+            <tr>
+                <th>Cars</th>
+                <th>Model</th>
+                <th>Year</th>
+                <th>Colour</th>
+            </tr>
+            <tr>
+                <td>BMW</td>
+                <td>X5</td>
+                <td>2015</td>
+                <td>Black</td>
+         </table>
+
+
+     </body>
+    </html>
